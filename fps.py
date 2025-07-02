@@ -1,7 +1,7 @@
 import cv2
 
 # Replace with your actual video file path
-video_path = "data/video/human_demo_11/camera_0.mp4.mp4"
+video_path = "data/video/human_demo_0/camera_2.mp4.mp4"
 # Open the video file
 cap = cv2.VideoCapture(video_path)
 
